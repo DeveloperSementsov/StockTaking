@@ -1,3 +1,4 @@
+package ru.developersementsov.stocktaking.m1l1
 fun main(args: Array<String>) {
     println("Hello World!")
 

@@ -1,0 +1,1 @@
+package ru.developersementsov.stocktaking.m1l1
